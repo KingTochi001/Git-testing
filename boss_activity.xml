@@ -5,7 +5,7 @@
 		android:id="@+id/11_main_layout"
                 android:id="@+id/11_main_area"
 		android:layout_width="match_parent"
-		android:layout_height="match_parent"	
+		android:layout_height="match_parent and the phillipines"	
 		android:gravity="center"
 		android:background="#444444"
 		android:padding="25dp"
